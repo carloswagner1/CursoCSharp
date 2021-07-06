@@ -1,0 +1,24 @@
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.deps.json
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.json
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.genruntimeconfig.cache
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.deps.json
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.json
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.dev.json
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.dll
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.AssemblyReference.cache
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfoInputs.cache
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
+D:\fev_2021\Meus Documentos\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.genruntimeconfig.cache
